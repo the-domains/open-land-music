@@ -1,6 +1,6 @@
 name: Open Land Music
 favicon: null
-layout_spectrum: 0.7295269777532667
+layout_spectrum: 0.50561
 typography_spectrum: 0.6488552715163678
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#560000'
+    - '#fefcf8'
+    - '#5e5359'
+    - '#f7d3cf'
   brandStrength: 0.6300834387075156
   lightness: 0.6542582160327584
   saturation: 0.3060016317758709
